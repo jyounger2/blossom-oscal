@@ -83,8 +83,8 @@
                 <p>Blossom network provider.</p>
             </remarks>
         </party>
-        <party uuid="09ad840f-aa79-43aa-9f22-25182c2ab11b" type="person">
-            <name>Stan Owens</name>
+        <party uuid="14daf3d0-0050-4054-8356-35e8a1147c64" type="person">
+            <name>Andra Phillips</name>
             <prop name="job-title" value="System Owner" />
             <email-address>blossom@nist.gov</email-address>
             <member-of-organization>8aed7ffd-5158-445d-8d7c-eec5cf240cba</member-of-organization>
